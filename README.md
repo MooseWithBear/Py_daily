@@ -1,2 +1,2 @@
 # Py_daily
-daily study
+Py daily learning log
